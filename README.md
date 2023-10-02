@@ -1,2 +1,2 @@
-# liceohtml-ejemplo2
+# liceo-html-ejemplo2
 Repositorio para el segundo ejemplo de HTML
